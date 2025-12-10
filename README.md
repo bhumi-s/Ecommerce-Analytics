@@ -30,20 +30,7 @@ Date Range Filtering: Dynamically slice data by specific time periods.
 
 🛠️ Installation & Local Setup
 
-Clone the repository
-
-git clone https://github.com/asmit124/Ecommerce-Analytics_1 cd ecommerce-dashboard
-
-Install dependencies Make sure you have Python installed, then run:
-
-pip install -r requirements.txt
-
-Run the application
-
-streamlit run dashboard.py
-
-View in Browser The app will automatically open at http://localhost:8501.
-
+acess here : http://10.18.7.0:8501
 📂 Expected CSV Format
 
 If you choose to upload your own data, ensure your CSV contains the following columns (headers are case-insensitive in the cleaning logic, but preferred as below):
